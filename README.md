@@ -1,4 +1,4 @@
-**List from [25iq](htttp://www.25iq.com)**
+**List from [25iq.com](htttp://www.25iq.com)**
 
 **Accounting:**
 
