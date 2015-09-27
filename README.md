@@ -1,5 +1,5 @@
 
-# **List of Mental Models from [25iq.com](htttp://www.25iq.com)**
+# **List of Mental Models from [25iq.com](www.25iq.com)**
 
 
 ## **Accounting:**
