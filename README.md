@@ -1,6 +1,8 @@
-**List from [25iq.com](htttp://www.25iq.com)**
 
-**Accounting:**
+# **List of Mental Models from [25iq.com](htttp://www.25iq.com)**
+
+
+## **Accounting:**
 
 Balance Sheet
 
@@ -18,7 +20,8 @@ Sunk Cost
 
  
 
-**Biology:**
+
+## **Biology:**
 
 Genetics
 
@@ -28,7 +31,8 @@ Physiology
 
  
 
-**Business:**
+
+## **Business:**
 
 Moats
 
@@ -38,7 +42,8 @@ Brand
 
  
 
-**Chemistry:**
+
+## **Chemistry:**
 
 Autocatalytic reactions
 
@@ -54,7 +59,9 @@ Viscosity
 
  
 
-**Computer Science:**
+
+## **Computer Science:**
+
 
 Abstractions
 
@@ -66,7 +73,10 @@ Recursion
 
  
 
-**Economics:**
+
+## **Economics:**
+
+
 
 Agency Problem
 
@@ -124,7 +134,10 @@ Utility
 
  
 
-**Engineering:**
+
+## **Engineering:**
+
+
 
 Breakpoints
 
@@ -136,7 +149,10 @@ Redundancy
 
  
 
-**Law:**
+
+## **Law:**
+
+
 
 Burden of Proof
 
@@ -156,7 +172,8 @@ Reasonable doubt
 
  
 
-**Management Science:**
+
+## **Management Science:**
 
 Occam’s razor
 
@@ -166,7 +183,9 @@ Process versus Outcome
 
  
 
-**Mathematics, Probability and Statistics:**
+
+## **Mathematics, Probability and Statistics:**
+
 
 Agent Based Models
 
@@ -208,7 +227,9 @@ Sensitivity Analysis
 
  
 
-**Philosophy, Literature and Rhetoric:**
+
+## **Philosophy, Literature and Rhetoric:**
+
 
 Metaphors
 
@@ -224,7 +245,9 @@ Reductionism
 
  
 
-**Physics:**
+
+## **Physics:**
+
 
 Critical Mass
 
