@@ -18,41 +18,40 @@
 
 ## **Biology:**
 
-1. Genetics
-2. Natural Selection
-3. Physiology
-4. Complex Adaptive Systems
-5. Systems Thinking 
+8. Genetics
+9. Natural Selection
+10. Physiology
+11. Complex Adaptive Systems
+12. Systems Thinking 
 
 ## **Business:**
 
-1. Moats
-2. Porter Five Forces
-3. Brand
-4. Ability to Raise Prices 
-5. Scale
-6. Distribution
-7. Cost
-8. Improving Returns
-9. Decision Trees
-10. Diminishing Returns
-
+13. Moats
+14. Porter Five Forces
+15. Brand
+16. Ability to Raise Prices 
+17. Scale
+18. Distribution
+19. Cost
+20. Improving Returns
+21. Decision Trees
+22. Diminishing Returns
 
 ## **Chemistry:**
 
-1. Autocatalytic reactions
-2. Bohr Model
-3. Kinetics
-4. Thermodynamics
-5. Uncertainty Principle
-6. Viscosity
+23. Autocatalytic reactions
+24. Bohr Model
+25. Kinetics
+26. Thermodynamics
+27. Uncertainty Principle
+28. Viscosity
 
 ## **Computer Science:**
 
-1. Abstractions
-2. Algorithms
-3. If-statements
-4. Recursion
+29. Abstractions
+30. Algorithms
+31. If-statements
+32. Recursion
 
 ## **Economics:**
 
