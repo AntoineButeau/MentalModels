@@ -215,3 +215,6 @@ Reductionism
 8. Relativity
 9. Shannon’s Law
 10. Thermodynamics
+
+Compiled from:
+[25iq.com](http://25iq.com) and [The Farnam Street Latticework of Mental Models](https://www.farnamstreetblog.com/mental-models/)
