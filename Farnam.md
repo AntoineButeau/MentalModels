@@ -6,7 +6,7 @@
 # [The Farnam Street Latticework of Mental Models](https://www.farnamstreetblog.com/mental-models/)
 
 
-## Psychology (misjudgments)
+## Psychology
 
 
 
