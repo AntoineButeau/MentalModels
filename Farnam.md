@@ -90,7 +90,7 @@
 
 56. Ability to Raise Prices
 57. Scale
-58 Distribution
+58. Distribution
 59. Cost
 60. Brand
 61. Improving Returns
