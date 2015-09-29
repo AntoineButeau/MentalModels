@@ -36,6 +36,8 @@
 20. Improving Returns
 21. Decision Trees
 22. Diminishing Returns
+23. Mr. Market
+24. Circle of Competence
 
 ## **Chemistry:**
 
