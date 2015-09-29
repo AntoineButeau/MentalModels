@@ -2,7 +2,7 @@
 # Compiled from: [25iq.com](http://25iq.com) and [The Farnam Street Latticework of Mental Models](https://www.farnamstreetblog.com/mental-models/)
 
 
-## Small note. I do this for myself but feel free to fork and contribute =)
+## Feel free to fork and contribute =)
 
 
 
